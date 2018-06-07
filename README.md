@@ -10,5 +10,7 @@ configurando a libhelp no projeto
 
 *2 passo: 
 
+![config_2](https://user-images.githubusercontent.com/5742609/41075323-845b6ae8-69e2-11e8-9297-40427182175d.png)
 
+Pronto, projeto configurado , agora só utilizar seus serviços da biblioteca.
 
