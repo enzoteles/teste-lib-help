@@ -5,16 +5,10 @@ configurando a libhelp no projeto
 
 *1 passo:
 
-allprojects { 
-        ...
-        maven { url 'https://jitpack.io' }
-    }
-}
+![config_1](https://user-images.githubusercontent.com/5742609/41075280-553f4c84-69e2-11e8-8d26-f4e6860e56b3.png)
+
 
 *2 passo: 
 
-dependencies {
-  ...
-  implementation 'com.github.enzoteles:libhelp:1.0'
-}
+
 
