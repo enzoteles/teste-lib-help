@@ -4,7 +4,7 @@ Projeto que serve como um guia de como usar a biblioteca libhelp no seu projeto 
 configurando a libhelp no projeto
 1 passo:
 
-allprojects {
+allprojects { <\br>
     repositories {
         google()
         jcenter()
